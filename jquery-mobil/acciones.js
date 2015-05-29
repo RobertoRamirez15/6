@@ -21,7 +21,7 @@ $(document).ready(function(e){
 				navigator.notification.vibrate(1000);
 				break;
 		}//switch opt
-			},"Aplicacion5","Beep,Vibrar,Cancelar");//confirm
+			},"Aplicacion7","Beep,Vibrar,Cancelar");//confirm
 			
 		 });//barrer derecha
 		
